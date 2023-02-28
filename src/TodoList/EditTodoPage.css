@@ -1,0 +1,21 @@
+.edit-todo-page {
+  margin: 2rem auto;
+  background-color: aliceblue;
+  width: 80%;
+  padding: 2rem;
+}
+.edit-todo-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.edit-todo-btn {
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  border: none;
+  color: white;
+  text-decoration: none;
+  margin-right: 1rem;
+  background-color: green;
+  width: 7rem;
+}

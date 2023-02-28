@@ -1,0 +1,38 @@
+.landing-page {
+  color: white;
+  text-align: center;
+  margin-top: 10rem;
+}
+
+.landing-btn {
+  padding: 1rem;
+  border: none;
+  border-radius: 05rem;
+}
+
+.landing-btns {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 30%;
+  margin: auto;
+  margin-top: 5rem;
+}
+
+.landing-btns .todos-link {
+  background-color: rgba(45, 127, 45, 0.739);
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  border: none;
+  color: white;
+  text-decoration: none;
+}
+
+.landing-btns .forms-link {
+  background-color: rgba(146, 105, 28, 0.719);
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  border: none;
+  color: white;
+  text-decoration: none;
+}

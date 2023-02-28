@@ -1,0 +1,34 @@
+.single-todo {
+  margin: 2rem auto;
+  width: 60%;
+  background-color: gray;
+  padding: 1rem;
+  color: white;
+}
+
+.title-todo {
+  font-size: 42px;
+}
+.single-todo > div {
+  margin-bottom: 0.5rem;
+}
+
+.buttons {
+  margin-top: 1rem;
+}
+button {
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  border: none;
+  color: white;
+  text-decoration: none;
+  margin-right: 1rem;
+}
+
+.delete-btn {
+  background-color: red;
+}
+
+.edit-link {
+  background-color: green;
+}

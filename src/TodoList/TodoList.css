@@ -1,0 +1,49 @@
+.todo-list {
+  margin: 2rem auto;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
+
+.todos {
+  margin-top: 2rem;
+  border: 1px solid gray;
+  border-radius: 0.5rem;
+}
+
+.title {
+  margin-bottom: 1rem;
+}
+
+.todo-btn {
+  border: none;
+  padding: 0.5rem 1rem;
+  outline: none;
+  border-radius: 0.5rem;
+  margin-right: 1rem;
+  color: white;
+  text-decoration: none;
+}
+
+.primary {
+  background-color: #4646a5cf;
+}
+
+.secondary {
+  background-color: rgba(39, 102, 39, 0.704);
+}
+
+.add-todo {
+  background-color: rgba(156, 122, 59, 0.761);
+  width: 7rem;
+}
+
+.todo-card {
+  margin: 1rem;
+  padding: 1rem;
+  border: 1px solid white;
+  border-radius: 0.5rem;
+  display: flex;
+  justify-content: space-between;
+}
